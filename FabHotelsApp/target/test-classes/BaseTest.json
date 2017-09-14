@@ -1,0 +1,9 @@
+{
+    "appiumConfiguration": {
+        "appiumHost": "127.0.0.1",
+        "appiumPort": "4723"
+    },
+    "FabHotelsConfiguration": {
+        "debugApplicationName": "FabHotels.apk"
+    }
+}

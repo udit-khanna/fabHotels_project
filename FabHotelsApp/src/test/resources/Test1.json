@@ -1,0 +1,9 @@
+{
+	"testDataConfiguration": {
+        "CouponCode": "FABAPP25",
+        "FullName":"Test Test",
+        "Email":"testFabHotels@yopmail.com",
+        "Mobile":"9555371977",
+        "URL":"https://www.fabhotels.com/hotels-in-new-delhi",
+    }
+}

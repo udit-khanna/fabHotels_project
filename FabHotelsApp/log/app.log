@@ -1,0 +1,215 @@
+2017-09-15 03:07:19 INFO  BaseTest:56 - In BaseTest() constructor
+2017-09-15 03:07:19 INFO  BaseTest:128 - Instantiating JSON Object for .json files
+2017-09-15 03:07:19 INFO  BaseTest:77 - Initializing test data from BaseTest.json file
+2017-09-15 03:07:19 INFO  BaseTest:34 - In Test1() constructor
+2017-09-15 03:07:19 INFO  BaseTest:128 - Instantiating JSON Object for .json files
+2017-09-15 03:07:19 INFO  BaseTest:46 - Initializing test data from Test1.json file
+2017-09-15 03:07:19 INFO  BaseTest:91 - Instantiating android driver
+2017-09-15 03:07:54 INFO  AbstractPage:47 - In Abstract Page Constructor
+2017-09-15 03:07:55 INFO  AbstractPage:58 - In Test page constructor
+2017-09-15 03:07:55 INFO  BaseTest:82 - ------Starting Test case execution----
+2017-09-15 03:07:55 INFO  BaseTest:83 - Inside verifyContactNumber method
+2017-09-15 03:07:55 INFO  AbstractPage:62 - Tapping Skip button
+2017-09-15 03:07:55 INFO  AbstractPage:94 - Clicking on the element
+2017-09-15 03:07:55 INFO  AbstractPage:90 - Tapping Phone Icon
+2017-09-15 03:07:55 INFO  AbstractPage:62 - Verifying that the element exists
+2017-09-15 03:07:56 INFO  AbstractPage:94 - Clicking on the element
+2017-09-15 03:07:56 INFO  AbstractPage:100 - Getting Phone number
+2017-09-15 03:07:56 INFO  AbstractPage:105 - Waiting for the element to be visible
+2017-09-15 03:07:57 INFO  AbstractPage:168 - Getting text of element
+2017-09-15 03:07:57 INFO  AbstractPage:170 - Returning text: +91 70424 24242
+2017-09-15 03:07:57 INFO  BaseTest:113 - Quitting driver
+2017-09-15 03:08:00 INFO  BaseTest:91 - Instantiating android driver
+2017-09-15 03:08:34 INFO  AbstractPage:47 - In Abstract Page Constructor
+2017-09-15 03:08:34 INFO  AbstractPage:58 - In Test page constructor
+2017-09-15 03:08:34 INFO  BaseTest:103 - ------Starting Test case execution----
+2017-09-15 03:08:34 INFO  BaseTest:104 - Inside applyCouponScenarios method
+2017-09-15 03:08:34 INFO  AbstractPage:62 - Tapping Skip button
+2017-09-15 03:08:34 INFO  AbstractPage:94 - Clicking on the element
+2017-09-15 03:08:35 INFO  AbstractPage:71 - Tapping New Delhi City icon
+2017-09-15 03:08:35 INFO  AbstractPage:94 - Clicking on the element
+2017-09-15 03:08:36 INFO  AbstractPage:111 - Tapping Hotel icon
+2017-09-15 03:08:36 INFO  AbstractPage:105 - Waiting for the element to be visible
+2017-09-15 03:08:38 INFO  AbstractPage:94 - Clicking on the element
+2017-09-15 03:08:38 INFO  AbstractPage:121 - Tapping Select Dates button
+2017-09-15 03:08:38 INFO  AbstractPage:168 - Getting text of element
+2017-09-15 03:08:40 INFO  AbstractPage:170 - Returning text: SELECT DATES
+2017-09-15 03:08:40 INFO  AbstractPage:94 - Clicking on the element
+2017-09-15 03:08:41 INFO  AbstractPage:138 - Tapping Done Button On Date Selector
+2017-09-15 03:08:41 INFO  AbstractPage:94 - Clicking on the element
+2017-09-15 03:08:42 INFO  AbstractPage:147 - Checking if Hotel is Sold Out
+2017-09-15 03:08:42 INFO  AbstractPage:62 - Verifying that the element exists
+2017-09-15 03:08:43 INFO  AbstractPage:168 - Getting text of element
+2017-09-15 03:08:43 INFO  AbstractPage:170 - Returning text: SOLD OUT
+2017-09-15 03:08:43 INFO  AbstractPage:151 - Clicking Back button
+2017-09-15 03:08:43 INFO  AbstractPage:94 - Clicking on the element
+2017-09-15 03:08:44 INFO  AbstractPage:111 - Tapping Hotel icon
+2017-09-15 03:08:44 INFO  AbstractPage:105 - Waiting for the element to be visible
+2017-09-15 03:08:45 INFO  AbstractPage:94 - Clicking on the element
+2017-09-15 03:08:45 INFO  AbstractPage:121 - Tapping Select Dates button
+2017-09-15 03:08:45 INFO  AbstractPage:168 - Getting text of element
+2017-09-15 03:08:48 INFO  AbstractPage:170 - Returning text: Book Now
+2017-09-15 03:08:48 INFO  AbstractPage:168 - Getting text of element
+2017-09-15 03:08:48 INFO  AbstractPage:170 - Returning text: Book Now
+2017-09-15 03:08:48 INFO  AbstractPage:94 - Clicking on the element
+2017-09-15 03:08:48 INFO  AbstractPage:147 - Checking if Hotel is Sold Out
+2017-09-15 03:08:48 INFO  AbstractPage:62 - Verifying that the element exists
+2017-09-15 03:08:49 INFO  AbstractPage:168 - Getting text of element
+2017-09-15 03:08:49 INFO  AbstractPage:170 - Returning text: Book Now
+2017-09-15 03:08:49 INFO  AbstractPage:166 - Scrolling To enter Coupon Code element
+2017-09-15 03:08:49 INFO  AbstractPage:62 - Verifying that the element exists
+2017-09-15 03:08:51 INFO  AbstractPage:143 - Getting screen size.
+2017-09-15 03:08:51 INFO  AbstractPage:154 - Scrolling the page
+2017-09-15 03:08:51 INFO  AbstractPage:155 - startx:540 starty: 1420
+2017-09-15 03:08:51 INFO  AbstractPage:156 - endx:540 endy: 355
+2017-09-15 03:08:53 INFO  AbstractPage:62 - Verifying that the element exists
+2017-09-15 03:08:54 INFO  AbstractPage:182 - Entering Coupon Code
+2017-09-15 03:08:54 INFO  AbstractPage:75 - Entering the input in the field : FABAPP25
+2017-09-15 03:09:05 INFO  AbstractPage:191 - Tapping Apply Button
+2017-09-15 03:09:05 INFO  AbstractPage:94 - Clicking on the element
+2017-09-15 03:09:06 INFO  AbstractPage:200 - Tapping Apply Button
+2017-09-15 03:09:06 INFO  AbstractPage:168 - Getting text of element
+2017-09-15 03:09:09 INFO  AbstractPage:170 - Returning text: Fab! You just saved ?534 on your booking
+2017-09-15 03:09:09 INFO  AbstractPage:203 - Coupon Applied
+2017-09-15 03:09:09 INFO  AbstractPage:204 - Clicking continue button
+2017-09-15 03:09:09 INFO  AbstractPage:94 - Clicking on the element
+2017-09-15 03:09:09 INFO  AbstractPage:213 - Entering Details
+2017-09-15 03:09:09 INFO  AbstractPage:105 - Waiting for the element to be visible
+2017-09-15 03:09:10 INFO  AbstractPage:75 - Entering the input in the field : Test Test
+2017-09-15 03:09:22 INFO  AbstractPage:75 - Entering the input in the field : testFabHotels@yopmail.com
+2017-09-15 03:09:35 INFO  AbstractPage:75 - Entering the input in the field : 9555371977
+2017-09-15 03:09:49 INFO  AbstractPage:225 - Tapping Proceed To Pay Button
+2017-09-15 03:09:49 INFO  AbstractPage:94 - Clicking on the element
+2017-09-15 03:09:50 INFO  AbstractPage:234 - Scrolling To Remove Coupon button
+2017-09-15 03:09:50 INFO  AbstractPage:62 - Verifying that the element exists
+2017-09-15 03:09:51 INFO  AbstractPage:143 - Getting screen size.
+2017-09-15 03:09:51 INFO  AbstractPage:154 - Scrolling the page
+2017-09-15 03:09:51 INFO  AbstractPage:155 - startx:540 starty: 1420
+2017-09-15 03:09:52 INFO  AbstractPage:156 - endx:540 endy: 355
+2017-09-15 03:09:53 INFO  AbstractPage:62 - Verifying that the element exists
+2017-09-15 03:10:13 INFO  AbstractPage:62 - Verifying that the element exists
+2017-09-15 03:10:33 INFO  AbstractPage:154 - Scrolling the page
+2017-09-15 03:10:33 INFO  AbstractPage:155 - startx:540 starty: 1420
+2017-09-15 03:10:33 INFO  AbstractPage:156 - endx:540 endy: 355
+2017-09-15 03:10:35 INFO  AbstractPage:62 - Verifying that the element exists
+2017-09-15 03:10:35 INFO  AbstractPage:94 - Clicking on the element
+2017-09-15 03:10:35 INFO  AbstractPage:252 - Tapping I Want To Pay Now Button
+2017-09-15 03:10:35 INFO  AbstractPage:105 - Waiting for the element to be visible
+2017-09-15 03:10:39 INFO  AbstractPage:94 - Clicking on the element
+2017-09-15 03:10:40 INFO  AbstractPage:263 - checking Coupon is removed
+2017-09-15 03:10:43 INFO  AbstractPage:105 - Waiting for the element to be visible
+2017-09-15 03:10:43 INFO  AbstractPage:168 - Getting text of element
+2017-09-15 03:10:43 INFO  AbstractPage:170 - Returning text: Pay ? 2,396
+2017-09-15 03:10:43 INFO  AbstractPage:168 - Getting text of element
+2017-09-15 03:10:43 INFO  AbstractPage:170 - Returning text: Pay ? 2,396 at hotel
+2017-09-15 03:10:43 INFO  BaseTest:113 - Quitting driver
+2017-09-15 03:10:46 INFO  BaseTest:91 - Instantiating android driver
+2017-09-15 03:11:20 INFO  AbstractPage:47 - In Abstract Page Constructor
+2017-09-15 03:11:20 INFO  AbstractPage:58 - In Test page constructor
+2017-09-15 03:11:20 INFO  BaseTest:133 - ------Starting Test case execution----
+2017-09-15 03:11:20 INFO  BaseTest:134 - Inside locationAndHotelCounts method
+2017-09-15 03:11:20 INFO  AbstractPage:62 - Tapping Skip button
+2017-09-15 03:11:20 INFO  AbstractPage:94 - Clicking on the element
+2017-09-15 03:11:20 INFO  AbstractPage:275 - Tapping Search Icon
+2017-09-15 03:11:20 INFO  AbstractPage:105 - Waiting for the element to be visible
+2017-09-15 03:11:21 INFO  AbstractPage:94 - Clicking on the element
+2017-09-15 03:11:22 INFO  AbstractPage:285 - Getting locations and Hotels
+2017-09-15 03:11:22 INFO  AbstractPage:143 - Getting screen size.
+2017-09-15 03:11:22 INFO  AbstractPage:222 - Getting list of text of elements
+2017-09-15 03:11:24 INFO  AbstractPage:154 - Scrolling the page
+2017-09-15 03:11:24 INFO  AbstractPage:155 - startx:540 starty: 1420
+2017-09-15 03:11:24 INFO  AbstractPage:156 - endx:540 endy: 355
+2017-09-15 03:11:25 INFO  AbstractPage:222 - Getting list of text of elements
+2017-09-15 03:11:28 INFO  AbstractPage:154 - Scrolling the page
+2017-09-15 03:11:28 INFO  AbstractPage:155 - startx:540 starty: 1420
+2017-09-15 03:11:28 INFO  AbstractPage:156 - endx:540 endy: 355
+2017-09-15 03:11:29 INFO  AbstractPage:222 - Getting list of text of elements
+2017-09-15 03:11:32 INFO  AbstractPage:154 - Scrolling the page
+2017-09-15 03:11:32 INFO  AbstractPage:155 - startx:540 starty: 1420
+2017-09-15 03:11:32 INFO  AbstractPage:156 - endx:540 endy: 355
+2017-09-15 03:11:33 INFO  AbstractPage:222 - Getting list of text of elements
+2017-09-15 03:11:36 INFO  AbstractPage:154 - Scrolling the page
+2017-09-15 03:11:36 INFO  AbstractPage:155 - startx:540 starty: 1420
+2017-09-15 03:11:36 INFO  AbstractPage:156 - endx:540 endy: 355
+2017-09-15 03:11:38 INFO  AbstractPage:222 - Getting list of text of elements
+2017-09-15 03:11:40 INFO  AbstractPage:154 - Scrolling the page
+2017-09-15 03:11:40 INFO  AbstractPage:155 - startx:540 starty: 1420
+2017-09-15 03:11:40 INFO  AbstractPage:156 - endx:540 endy: 355
+2017-09-15 03:11:42 INFO  AbstractPage:222 - Getting list of text of elements
+2017-09-15 03:11:45 INFO  AbstractPage:154 - Scrolling the page
+2017-09-15 03:11:45 INFO  AbstractPage:155 - startx:540 starty: 1420
+2017-09-15 03:11:45 INFO  AbstractPage:156 - endx:540 endy: 355
+2017-09-15 03:11:46 INFO  AbstractPage:222 - Getting list of text of elements
+2017-09-15 03:11:50 INFO  AbstractPage:154 - Scrolling the page
+2017-09-15 03:11:50 INFO  AbstractPage:155 - startx:540 starty: 1420
+2017-09-15 03:11:50 INFO  AbstractPage:156 - endx:540 endy: 355
+2017-09-15 03:11:51 INFO  AbstractPage:222 - Getting list of text of elements
+2017-09-15 03:11:53 INFO  AbstractPage:154 - Scrolling the page
+2017-09-15 03:11:53 INFO  AbstractPage:155 - startx:540 starty: 1420
+2017-09-15 03:11:53 INFO  AbstractPage:156 - endx:540 endy: 355
+2017-09-15 03:11:54 INFO  AbstractPage:298 - [New Delhi, 22 FabHotels in best locations, Bangalore, 32 FabHotels in best locations, Mumbai, 25 FabHotels in best locations, Chennai, 23 FabHotels in best locations, Goa, 5 FabHotels in best locations, Gurgaon, Chennai, 23 FabHotels in best locations, Goa, 5 FabHotels in best locations, Gurgaon, 23 FabHotels in best locations, Hyderabad, 25 FabHotels in best locations, Jaipur, 6 FabHotels in best locations, Pune, 21 FabHotels in best locations, Pune, 21 FabHotels in best locations, Ahmedabad, 2 FabHotels in best locations, Amritsar, 2 FabHotels in best locations, Bangalore, 32 FabHotels in best locations, Chandigarh, 2 FabHotels in best locations, Chennai, 23 FabHotels in best locations, Chandigarh, 2 FabHotels in best locations, Chennai, 23 FabHotels in best locations, Coimbatore, 4 FabHotels in best locations, Goa, 5 FabHotels in best locations, Gurgaon, 23 FabHotels in best locations, Hyderabad, 25 FabHotels in best locations, Indore, 23 FabHotels in best locations, Hyderabad, 25 FabHotels in best locations, Indore, 7 FabHotels in best locations, Jaipur, 6 FabHotels in best locations, Kochi, 1 FabHotel in best locations, Kolkata, 14 FabHotels in best locations, Lucknow, 2 FabHotels in best locations, Kolkata, 14 FabHotels in best locations, Lucknow, 2 FabHotels in best locations, Manesar, 2 FabHotels in best locations, Mumbai, 25 FabHotels in best locations, Mysore, 2 FabHotels in best locations, New Delhi, 22 FabHotels in best locations, Noida, 2 FabHotels in best locations, New Delhi, 22 FabHotels in best locations, Noida, 3 FabHotels in best locations, Ooty, 3 FabHotels in best locations, Pondicherry, 2 FabHotels in best locations, Pune, 21 FabHotels in best locations, Udaipur, 1 FabHotel in best locations, 3 FabHotels in best locations, Ooty, 3 FabHotels in best locations, Pondicherry, 2 FabHotels in best locations, Pune, 21 FabHotels in best locations, Udaipur, 1 FabHotel in best locations, Vijayawada, 1 FabHotel in best locations, Visakhapatnam, 2 FabHotels in best locations]
+2017-09-15 03:11:54 INFO  AbstractPage:305 - Printing Locations with Hotels
+2017-09-15 03:11:54 INFO  AbstractPage:308 - Location: New Delhi : 22 FabHotels in best locations
+2017-09-15 03:11:54 INFO  AbstractPage:308 - Location: Bangalore : 32 FabHotels in best locations
+2017-09-15 03:11:54 INFO  AbstractPage:308 - Location: Mumbai : 25 FabHotels in best locations
+2017-09-15 03:11:54 INFO  AbstractPage:308 - Location: Chennai : 23 FabHotels in best locations
+2017-09-15 03:11:54 INFO  AbstractPage:308 - Location: Goa : 5 FabHotels in best locations
+2017-09-15 03:11:54 INFO  AbstractPage:308 - Location: Gurgaon : Chennai
+2017-09-15 03:11:54 INFO  AbstractPage:308 - Location: 23 FabHotels in best locations : Goa
+2017-09-15 03:11:54 INFO  AbstractPage:308 - Location: 5 FabHotels in best locations : Gurgaon
+2017-09-15 03:11:54 INFO  AbstractPage:308 - Location: 23 FabHotels in best locations : Hyderabad
+2017-09-15 03:11:54 INFO  AbstractPage:308 - Location: 25 FabHotels in best locations : Jaipur
+2017-09-15 03:11:54 INFO  AbstractPage:308 - Location: 6 FabHotels in best locations : Pune
+2017-09-15 03:11:54 INFO  AbstractPage:308 - Location: 21 FabHotels in best locations : Pune
+2017-09-15 03:11:54 INFO  AbstractPage:308 - Location: 21 FabHotels in best locations : Ahmedabad
+2017-09-15 03:11:54 INFO  AbstractPage:308 - Location: 2 FabHotels in best locations : Amritsar
+2017-09-15 03:11:54 INFO  AbstractPage:308 - Location: 2 FabHotels in best locations : Bangalore
+2017-09-15 03:11:54 INFO  AbstractPage:308 - Location: 32 FabHotels in best locations : Chandigarh
+2017-09-15 03:11:54 INFO  AbstractPage:308 - Location: 2 FabHotels in best locations : Chennai
+2017-09-15 03:11:54 INFO  AbstractPage:308 - Location: 23 FabHotels in best locations : Chandigarh
+2017-09-15 03:11:54 INFO  AbstractPage:308 - Location: 2 FabHotels in best locations : Chennai
+2017-09-15 03:11:54 INFO  AbstractPage:308 - Location: 23 FabHotels in best locations : Coimbatore
+2017-09-15 03:11:54 INFO  AbstractPage:308 - Location: 4 FabHotels in best locations : Goa
+2017-09-15 03:11:54 INFO  AbstractPage:308 - Location: 5 FabHotels in best locations : Gurgaon
+2017-09-15 03:11:54 INFO  AbstractPage:308 - Location: 23 FabHotels in best locations : Hyderabad
+2017-09-15 03:11:54 INFO  AbstractPage:308 - Location: 25 FabHotels in best locations : Indore
+2017-09-15 03:11:54 INFO  AbstractPage:308 - Location: 23 FabHotels in best locations : Hyderabad
+2017-09-15 03:11:54 INFO  AbstractPage:308 - Location: 25 FabHotels in best locations : Indore
+2017-09-15 03:11:54 INFO  AbstractPage:308 - Location: 7 FabHotels in best locations : Jaipur
+2017-09-15 03:11:54 INFO  AbstractPage:308 - Location: 6 FabHotels in best locations : Kochi
+2017-09-15 03:11:54 INFO  AbstractPage:308 - Location: 1 FabHotel in best locations : Kolkata
+2017-09-15 03:11:54 INFO  AbstractPage:308 - Location: 14 FabHotels in best locations : Lucknow
+2017-09-15 03:11:54 INFO  AbstractPage:308 - Location: 2 FabHotels in best locations : Kolkata
+2017-09-15 03:11:54 INFO  AbstractPage:308 - Location: 14 FabHotels in best locations : Lucknow
+2017-09-15 03:11:54 INFO  AbstractPage:308 - Location: 2 FabHotels in best locations : Manesar
+2017-09-15 03:11:54 INFO  AbstractPage:308 - Location: 2 FabHotels in best locations : Mumbai
+2017-09-15 03:11:54 INFO  AbstractPage:308 - Location: 25 FabHotels in best locations : Mysore
+2017-09-15 03:11:54 INFO  AbstractPage:308 - Location: 2 FabHotels in best locations : New Delhi
+2017-09-15 03:11:54 INFO  AbstractPage:308 - Location: 22 FabHotels in best locations : Noida
+2017-09-15 03:11:54 INFO  AbstractPage:308 - Location: 2 FabHotels in best locations : New Delhi
+2017-09-15 03:11:54 INFO  AbstractPage:308 - Location: 22 FabHotels in best locations : Noida
+2017-09-15 03:11:54 INFO  AbstractPage:308 - Location: 3 FabHotels in best locations : Ooty
+2017-09-15 03:11:54 INFO  AbstractPage:308 - Location: 3 FabHotels in best locations : Pondicherry
+2017-09-15 03:11:54 INFO  AbstractPage:308 - Location: 2 FabHotels in best locations : Pune
+2017-09-15 03:11:54 INFO  AbstractPage:308 - Location: 21 FabHotels in best locations : Udaipur
+2017-09-15 03:11:54 INFO  AbstractPage:308 - Location: 1 FabHotel in best locations : 3 FabHotels in best locations
+2017-09-15 03:11:54 INFO  AbstractPage:308 - Location: Ooty : 3 FabHotels in best locations
+2017-09-15 03:11:54 INFO  AbstractPage:308 - Location: Pondicherry : 2 FabHotels in best locations
+2017-09-15 03:11:54 INFO  AbstractPage:308 - Location: Pune : 21 FabHotels in best locations
+2017-09-15 03:11:54 INFO  AbstractPage:308 - Location: Udaipur : 1 FabHotel in best locations
+2017-09-15 03:11:54 INFO  AbstractPage:308 - Location: Vijayawada : 1 FabHotel in best locations
+2017-09-15 03:11:54 INFO  AbstractPage:308 - Location: Visakhapatnam : 2 FabHotels in best locations
+2017-09-15 03:11:54 INFO  BaseTest:113 - Quitting driver
+2017-09-15 03:11:57 INFO  BaseTest:91 - Instantiating android driver
+2017-09-15 03:12:31 INFO  AbstractPage:47 - In Abstract Page Constructor
+2017-09-15 03:12:31 INFO  AbstractPage:58 - In Test page constructor
+2017-09-15 03:12:31 INFO  BaseTest:154 - ------Starting Test case execution----
+2017-09-15 03:12:31 INFO  BaseTest:155 - Inside checkDeepLink method
+2017-09-15 03:12:31 INFO  AbstractPage:317 - Getting url: https://www.fabhotels.com/hotels-in-new-delhi
+2017-09-15 03:12:32 INFO  AbstractPage:326 - Checking Delhi Search Opens
+2017-09-15 03:12:32 INFO  AbstractPage:105 - Waiting for the element to be visible
+2017-09-15 03:12:33 INFO  AbstractPage:168 - Getting text of element
+2017-09-15 03:12:33 INFO  AbstractPage:170 - Returning text: New Delhi
+2017-09-15 03:12:33 INFO  AbstractPage:336 - Checking Hotels are Present
+2017-09-15 03:12:33 INFO  AbstractPage:62 - Verifying that the element exists
+2017-09-15 03:12:33 INFO  BaseTest:113 - Quitting driver

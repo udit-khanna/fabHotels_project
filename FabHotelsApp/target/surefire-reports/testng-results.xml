@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="ALL Suite" duration-ms="316701" started-at="2017-09-14T21:37:19Z" finished-at="2017-09-14T21:42:36Z">
+    <groups>
+    </groups>
+    <test name="FabHotelsApp Test" duration-ms="316701" started-at="2017-09-14T21:37:19Z" finished-at="2017-09-14T21:42:36Z">
+      <class name="com.fabhotels.FabHotelsApp.tests.Test1">
+        <test-method status="PASS" signature="loadLoginPage()[pri:0, instance:com.fabhotels.FabHotelsApp.tests.Test1@68c4039c]" name="loadLoginPage" is-config="true" duration-ms="35125" started-at="2017-09-15T03:07:19Z" finished-at="2017-09-15T03:07:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadLoginPage -->
+        <test-method status="PASS" signature="verifyContactNumber()[pri:0, instance:com.fabhotels.FabHotelsApp.tests.Test1@68c4039c]" name="verifyContactNumber" duration-ms="2995" started-at="2017-09-15T03:07:54Z" finished-at="2017-09-15T03:07:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyContactNumber -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.fabhotels.FabHotelsApp.tests.Test1@68c4039c]" name="tearDown" is-config="true" duration-ms="2792" started-at="2017-09-15T03:07:57Z" finished-at="2017-09-15T03:08:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="loadLoginPage()[pri:0, instance:com.fabhotels.FabHotelsApp.tests.Test1@68c4039c]" name="loadLoginPage" is-config="true" duration-ms="34045" started-at="2017-09-15T03:08:00Z" finished-at="2017-09-15T03:08:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadLoginPage -->
+        <test-method status="PASS" signature="applyCouponScenarios()[pri:0, instance:com.fabhotels.FabHotelsApp.tests.Test1@68c4039c]" name="applyCouponScenarios" duration-ms="128862" started-at="2017-09-15T03:08:34Z" finished-at="2017-09-15T03:10:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- applyCouponScenarios -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.fabhotels.FabHotelsApp.tests.Test1@68c4039c]" name="tearDown" is-config="true" duration-ms="2716" started-at="2017-09-15T03:10:43Z" finished-at="2017-09-15T03:10:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="loadLoginPage()[pri:0, instance:com.fabhotels.FabHotelsApp.tests.Test1@68c4039c]" name="loadLoginPage" is-config="true" duration-ms="34198" started-at="2017-09-15T03:10:46Z" finished-at="2017-09-15T03:11:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadLoginPage -->
+        <test-method status="PASS" signature="locationAndHotelCounts()[pri:0, instance:com.fabhotels.FabHotelsApp.tests.Test1@68c4039c]" name="locationAndHotelCounts" duration-ms="34119" started-at="2017-09-15T03:11:20Z" finished-at="2017-09-15T03:11:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- locationAndHotelCounts -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.fabhotels.FabHotelsApp.tests.Test1@68c4039c]" name="tearDown" is-config="true" duration-ms="2683" started-at="2017-09-15T03:11:54Z" finished-at="2017-09-15T03:11:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="loadLoginPage()[pri:0, instance:com.fabhotels.FabHotelsApp.tests.Test1@68c4039c]" name="loadLoginPage" is-config="true" duration-ms="33927" started-at="2017-09-15T03:11:57Z" finished-at="2017-09-15T03:12:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadLoginPage -->
+        <test-method status="PASS" signature="checkDeepLink()[pri:0, instance:com.fabhotels.FabHotelsApp.tests.Test1@68c4039c]" name="checkDeepLink" duration-ms="2507" started-at="2017-09-15T03:12:31Z" finished-at="2017-09-15T03:12:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkDeepLink -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.fabhotels.FabHotelsApp.tests.Test1@68c4039c]" name="tearDown" is-config="true" duration-ms="2714" started-at="2017-09-15T03:12:33Z" finished-at="2017-09-15T03:12:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.fabhotels.FabHotelsApp.tests.Test1 -->
+    </test> <!-- FabHotelsApp Test -->
+  </suite> <!-- ALL Suite -->
+</testng-results>
